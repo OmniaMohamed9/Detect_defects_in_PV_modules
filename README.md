@@ -83,16 +83,16 @@ mvn javafx:run
 
 ### Backend مشاكل
 
-* تأكدي إن الموديل موجود في `models/best.pt`
-* تأكدي إن السيرفر شغال
+* Make sure the model exists in `models/best.pt`
+* Make sure the server is running
 
 ### Frontend مشاكل
 
-* تأكدي من Java و Maven
+* Make sure Java and Maven are installed
 
 ### Connection
 
-* لازم backend يشتغل قبل frontend
+* The backend must be running before the frontend
 
 ---
 
