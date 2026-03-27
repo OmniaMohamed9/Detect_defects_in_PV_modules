@@ -81,12 +81,12 @@ mvn javafx:run
 
 ## ⚠️ Troubleshooting
 
-### Backend مشاكل
+### Backend problems
 
 * Make sure the model exists in `models/best.pt`
 * Make sure the server is running
 
-### Frontend مشاكل
+### Frontend problems
 
 * Make sure Java and Maven are installed
 
